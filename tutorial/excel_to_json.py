@@ -13,5 +13,3 @@ def convert_excel_to_json(excel_file):
 
 # get rid of europe.json to print in console
 # print(convert_excel_to_json('europe.xlsx'))
-if __name__ == '__main__':
-    sys.exit()

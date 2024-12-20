@@ -1,5 +1,4 @@
 import streamlit as st
-import openpyxl as op
 from excel_to_json import convert_excel_to_json
 
 # difference between webapp and script
